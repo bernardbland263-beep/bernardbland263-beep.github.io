@@ -16,7 +16,7 @@ You may begin with the foreword, or simply stay here for a moment.
 ## Read
 
 - [Foreword — *Why Quiet Matters*](/foreword/)
-- Chapter 1 — *(coming soon)*
+- - [Chapter 1](/chapter-1/)
 
 If you choose to support this work, you are choosing to stay with it a little longer.
 
