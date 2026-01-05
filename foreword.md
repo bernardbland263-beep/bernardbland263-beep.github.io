@@ -31,3 +31,23 @@ If you read it slowly, it may not reward you either — but it will remain hones
 
 This book does not ask you to change.  
 It only asks you to stay.
+If you choose to support this work, you are choosing to stay with it a little longer.
+
+Nothing here asks to be rushed.
+---
+
+Nothing here asks to be rushed.
+
+*For those who remain:*
+
+- 📧 **Email**  
+  [bernardbland263@gmail.com](mailto:bernardbland263@gmail.com)
+
+- ☕ **Support**  
+  [buymeacoffee.com/quiet.hours](https://buymeacoffee.com/quiet.hours)
+
+- 🎵 **TikTok**  
+  [@quiethoursbook](https://www.tiktok.com/@quiethoursbook)
+
+- ▶️ **X**  
+  [@QuietHoursBook](https://x.com/QuietHoursBook)
