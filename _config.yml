@@ -6,3 +6,5 @@ author: Erika Angelina
 markdown: kramdown
 header_pages:
   - foreword/index.md
+minima:
+  show_excerpts: false
