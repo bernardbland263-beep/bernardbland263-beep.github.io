@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Chapter 1– The Room After Midnight
+title: Chapter 1 — The Room After Midnight
+permalink: /chapter-1/
 ---
 After midnight, the room stops pretending to be useful.
 
