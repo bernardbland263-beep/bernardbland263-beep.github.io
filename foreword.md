@@ -3,11 +3,6 @@ layout: page
 title: Foreword — Why Quiet Matters
 permalink: /foreword/
 ---
-layout: page
-title: Foreword — Why Quiet Matters
-permalink: /foreword/
----
-
 This is not a book about answers.  
 It is not here to guide, to heal, or to explain anything away.
 
