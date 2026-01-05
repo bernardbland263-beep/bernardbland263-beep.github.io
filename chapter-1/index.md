@@ -1,6 +1,6 @@
 ---
 layout: page
-title: **Chapter 1– The Room After Midnight**
+title: Chapter 1– The Room After Midnight
 ---
 After midnight, the room stops pretending to be useful.
 
