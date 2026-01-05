@@ -24,15 +24,11 @@ Nothing here asks to be rushed.
 ---
 
 If you wish to stay with this work a little longer:
-
-📧 Email  
+Email  
 [bernardbland263@gmail.com](mailto:bernardbland263@gmail.com)
-
-☕ Support  
+Support  
 https://buymeacoffee.com/quiet.hours
-
-🎵 TikTok  
-https://www.tiktok.com/@quiethoursbook
-
-▶️ X  
+Quiet Hours elsewhere  
+https://www.tiktok.com/@quiethoursbook  
 https://x.com/QuietHoursBook
+
