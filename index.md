@@ -25,7 +25,7 @@ Nothing here asks to be rushed.
 
 Nothing here asks to be rushed.
 
-*For those who remain:*
+*If you choose to stay:*
 
 - 📧 **Email**  
   [bernardbland263@gmail.com](mailto:bernardbland263@gmail.com)
