@@ -4,3 +4,5 @@ url: https://bernardbland263-beep.github.io
 theme: minima
 author: Erika Angelina
 markdown: kramdown
+header_pages:
+  - foreword/index.md
