@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chapter 1 — (coming soon)
+title: Chapter 1
 permalink: /chapter-1/
 ---
 
