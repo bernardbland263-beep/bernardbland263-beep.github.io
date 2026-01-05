@@ -3,8 +3,6 @@ layout: home
 title: Quiet Hours
 ---
 
-## Quiet Hours
-
 *A book about stillness, isolation, and staying.*
 
 This is not a project about productivity or urgency.  
@@ -14,13 +12,10 @@ This space will unfold gradually.
 
 You may begin with the foreword, or simply stay here for a moment.
 
----
+## Read
 
-**Read**
-- Foreword — *Why Quiet Matters*  
+- [Foreword — *Why Quiet Matters*](/foreword/)
 - Chapter 1 — *(coming soon)*
-
----
 
 If you choose to support this work, you are choosing to stay with it a little longer.
 
