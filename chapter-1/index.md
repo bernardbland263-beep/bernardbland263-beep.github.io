@@ -55,3 +55,23 @@ Minutes pass unnoticed. Midnight slips further away, replaced by an unnamed stre
 For the first time in a long while, I am not trying to become anything.
 
 And in that stillness—unproductive, unresolved, and quiet—I find something close to rest.
+If you choose to support this work, you are choosing to stay with it a little longer.
+
+Nothing here asks to be rushed.
+---
+
+Nothing here asks to be rushed.
+
+*For those who remain:*
+
+- 📧 **Email**  
+  [bernardbland263@gmail.com](mailto:bernardbland263@gmail.com)
+
+- ☕ **Support**  
+  [buymeacoffee.com/quiet.hours](https://buymeacoffee.com/quiet.hours)
+
+- 🎵 **TikTok**  
+  [@quiethoursbook](https://www.tiktok.com/@quiethoursbook)
+
+- ▶️ **X**  
+  [@QuietHoursBook](https://x.com/QuietHoursBook)
