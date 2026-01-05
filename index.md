@@ -1,6 +1,7 @@
 ---
-layout: home
+layout: page
 title: Quiet Hours
+permalink: /
 ---
 
 *A book about stillness, isolation, and staying.*
