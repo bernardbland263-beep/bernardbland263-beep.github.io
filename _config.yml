@@ -1,10 +1,14 @@
 title: Quiet Hours
 description: A book about stillness, isolation, and staying.
-url: https://bernardbland263-beep.github.io
+url: https://quiethours.art
+
 theme: minima
-author: Erika Angelina
 markdown: kramdown
+
+author: Erika Angelina
+
 header_pages:
   - foreword/index.md
+
 minima:
   show_excerpts: false
