@@ -21,3 +21,18 @@ You may begin with the foreword, or simply stay here for a moment.
 If you choose to support this work, you are choosing to stay with it a little longer.
 
 Nothing here asks to be rushed.
+---
+
+If you wish to stay with this work a little longer:
+
+📧 Email  
+[bernardbland263@gmail.com](mailto:bernardbland263@gmail.com)
+
+☕ Support  
+https://buymeacoffee.com/quiet.hours
+
+🎵 TikTok  
+https://www.tiktok.com/@quiethoursbook
+
+▶️ X  
+https://x.com/QuietHoursBook
