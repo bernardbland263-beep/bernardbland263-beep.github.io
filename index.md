@@ -22,18 +22,20 @@ If you choose to support this work, you are choosing to stay with it a little lo
 
 Nothing here asks to be rushed.
 ---
----
 
-If you wish to stay with this work a little longer:
+Nothing here asks to be rushed.
 
-📧 Email  
-[bernardbland263@gmail.com](mailto:bernardbland263@gmail.com)
+*For those who remain:*
 
-☕ Support  
-https://buymeacoffee.com/quiet.hours
+- 📧 **Email**  
+  [bernardbland263@gmail.com](mailto:bernardbland263@gmail.com)
 
-🎵 TikTok  
-https://www.tiktok.com/@quiethoursbook
+- ☕ **Support**  
+  [buymeacoffee.com/quiet.hours](https://buymeacoffee.com/quiet.hours)
 
-▶️ X  
-https://x.com/QuietHoursBook
+- 🎵 **TikTok**  
+  [@quiethoursbook](https://www.tiktok.com/@quiethoursbook)
+
+- ▶️ **X**  
+  [@QuietHoursBook](https://x.com/QuietHoursBook)
+
